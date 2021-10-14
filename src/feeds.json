@@ -3,12 +3,11 @@
     "http://feeds.arstechnica.com/arstechnica/index",
     "http://www.engadget.com/rss.xml",
     "http://www.theverge.com/rss/index.xml",
-    "http://feeds.bbci.co.uk/news/rss.xml"
+    "http://feeds.feedburner.com/zhihu-daily"
   ],
   "development": [
     "http://javascriptweekly.com/rss",
-    "https://news.ycombinator.com/rss",
-    "http://feeds.feedburner.com/zhihu-daily"
+    "https://news.ycombinator.com/rss"
   ],
   "blogs": [
     "https://overreacted.io/rss.xml",
