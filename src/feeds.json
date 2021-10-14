@@ -1,8 +1,29 @@
 {
-  "dailies": [
+  "news": [
+    "http://feeds.arstechnica.com/arstechnica/index",
+    "http://www.engadget.com/rss.xml",
+    "http://www.theverge.com/rss/index.xml",
+    "http://feeds.bbci.co.uk/news/rss.xml"
+  ],
+  "development": [
     "http://javascriptweekly.com/rss",
     "https://news.ycombinator.com/rss",
-    "http://feeds.feedburner.com/zhihu-daily",
-    "http://www.v2ex.com/index.xml"
+    "http://feeds.feedburner.com/zhihu-daily"
+  ],
+  "blogs": [
+    "https://overreacted.io/rss.xml",
+    "https://cprss.s3.amazonaws.com/frontendfoc.us.xml",
+    "https://lihautan.com/rss.xml",
+    "https://swizec.com/rss.xml",
+    "https://blog.johnnyreilly.com/rss.xml",
+    "https://yhspy.com/atom.xml",
+    "https://xargin.com/rss/",
+    "https://draveness.me/feed.xml",
+    "https://halfrost.com/rss/"
+  ],
+  "community": [
+    "https://dev.to/feed",
+    "http://www.v2ex.com/index.xml",
+    "https://stackoverflow.com/feeds"
   ]
 }
