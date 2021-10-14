@@ -23,6 +23,8 @@
   "community": [
     "https://dev.to/feed",
     "http://www.v2ex.com/index.xml",
-    "https://stackoverflow.com/feeds"
+    "https://stackoverflow.com/feeds/tag/javascript",
+    "https://stackoverflow.com/feeds/tag/rust",
+    "https://stackoverflow.com/feeds/tag/go"
   ]
 }
