@@ -1,15 +1,8 @@
 {
-   "日常生活": [
-    "https://xiamuyourenzhang.cn/feed.xml",
-    "https://www.linyufan.com/rss.xml",
-    "http://gojira.net/feed"
-  ],
   "dailies": [
     "http://javascriptweekly.com/rss",
     "https://news.ycombinator.com/rss",
-     
     "http://feeds.feedburner.com/zhihu-daily",
-    
     "http://www.v2ex.com/index.xml"
   ]
 }
