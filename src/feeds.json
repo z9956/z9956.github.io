@@ -12,7 +12,9 @@
     "https://reactjs.org/feed.xml",
     "https://lihautan.com/rss.xml",
     "https://blog.stevensanderson.com/feed/",
-    "https://qq.md/feed.xml"
+    "https://qq.md/feed.xml",
+    "https://web.dev/feed.xml",
+    "https://blog.mozilla.org/feed/"
   ],
   "community": [
     "https://dev.to/feed",
@@ -23,7 +25,9 @@
   ],
   "development": [
     "http://javascriptweekly.com/rss",
-    "https://news.ycombinator.com/rss"
+    "https://news.ycombinator.com/rss",
+    "https://v8.dev/blog.atom",
+    "https://joy.recurse.com/feed.atom"
   ],
   "news": [
     "http://feeds.arstechnica.com/arstechnica/index",
@@ -37,8 +41,5 @@
     "https://rsshub.app/zhihu/hotlist",
     "https://rsshub.app/weibo/search/hot",
     "https://rsshub.app/douban/movie/weekly"
-  ],
-  "channel": [
-    "https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA"
   ]
 }
