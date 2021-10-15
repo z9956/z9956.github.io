@@ -35,6 +35,7 @@
     "https://rsshub.app/zhihu/daily",
     "http://feeds.bbci.co.uk/news/rss.xml",
     "https://rsshub.app/zhihu/hotlist",
-    "https://rsshub.app/weibo/search/hot"
+    "https://rsshub.app/weibo/search/hot",
+    "https://rsshub.app/douban/movie/weekly"
   ]
 }
