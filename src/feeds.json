@@ -4,7 +4,9 @@
     "http://www.engadget.com/rss.xml",
     "http://www.theverge.com/rss/index.xml",
     "https://sspai.com/feed",
-    "https://rsshub.app/telegram/channel/tnews365"
+    "https://rsshub.app/telegram/channel/tnews365",
+    "https://www.solidot.org/index.rss",
+    “https://rsshub.app/zhihu/daily”
   ],
   "development": [
     "http://javascriptweekly.com/rss",
