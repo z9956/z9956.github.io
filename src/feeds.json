@@ -8,7 +8,10 @@
     "https://yhspy.com/atom.xml",
     "https://xargin.com/rss/",
     "https://draveness.me/feed.xml",
-    "https://halfrost.com/rss/"
+    "https://halfrost.com/rss/",
+    "https://reactjs.org/feed.xml",
+    "https://lihautan.com/rss.xml",
+    "https://blog.stevensanderson.com/feed/"
   ],
   "community": [
     "https://dev.to/feed",
