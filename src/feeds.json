@@ -3,7 +3,8 @@
     "http://feeds.arstechnica.com/arstechnica/index",
     "http://www.engadget.com/rss.xml",
     "http://www.theverge.com/rss/index.xml",
-    "http://feeds.feedburner.com/zhihu-daily"
+    "https://sspai.com/feed",
+    "https://rsshub.app/telegram/channel/tnews365"
   ],
   "development": [
     "http://javascriptweekly.com/rss",
