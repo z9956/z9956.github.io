@@ -1,17 +1,4 @@
 {
-  "news": [
-    "http://feeds.arstechnica.com/arstechnica/index",
-    "http://www.engadget.com/rss.xml",
-    "http://www.theverge.com/rss/index.xml",
-    "https://sspai.com/feed",
-    "https://rsshub.app/telegram/channel/tnews365",
-    "https://www.solidot.org/index.rss",
-    "https://rsshub.app/zhihu/daily"
-  ],
-  "development": [
-    "http://javascriptweekly.com/rss",
-    "https://news.ycombinator.com/rss"
-  ],
   "blogs": [
     "https://overreacted.io/rss.xml",
     "https://cprss.s3.amazonaws.com/frontendfoc.us.xml",
@@ -29,5 +16,19 @@
     "https://stackoverflow.com/feeds/tag/javascript",
     "https://stackoverflow.com/feeds/tag/rust",
     "https://stackoverflow.com/feeds/tag/go"
+  ],
+  "development": [
+    "http://javascriptweekly.com/rss",
+    "https://news.ycombinator.com/rss"
+  ],
+  "news": [
+    "http://feeds.arstechnica.com/arstechnica/index",
+    "http://www.engadget.com/rss.xml",
+    "http://www.theverge.com/rss/index.xml",
+    "https://sspai.com/feed",
+    "https://rsshub.app/telegram/channel/tnews365",
+    "https://www.solidot.org/index.rss",
+    "https://rsshub.app/zhihu/daily",
+    "http://feeds.bbci.co.uk/news/rss.xml"
   ]
 }
