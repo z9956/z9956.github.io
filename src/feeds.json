@@ -16,6 +16,10 @@
     "https://web.dev/feed.xml",
     "https://blog.mozilla.org/feed/"
   ],
+  "channel": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw"
+  ],
   "community": [
     "https://dev.to/feed",
     "http://www.v2ex.com/index.xml",
@@ -23,9 +27,6 @@
     "https://stackoverflow.com/feeds/tag/rust",
     "https://stackoverflow.com/feeds/tag/go"
   ],
-  "channel": [
-    "https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA"
-  ]
   "development": [
     "http://javascriptweekly.com/rss",
     "https://news.ycombinator.com/rss",
