@@ -23,6 +23,9 @@
     "https://stackoverflow.com/feeds/tag/rust",
     "https://stackoverflow.com/feeds/tag/go"
   ],
+  "channel": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA"
+  ]
   "development": [
     "http://javascriptweekly.com/rss",
     "https://news.ycombinator.com/rss",
