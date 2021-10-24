@@ -44,7 +44,6 @@
     "https://www.solidot.org/index.rss",
     "https://rsshub.app/zhihu/daily",
     "http://feeds.bbci.co.uk/news/rss.xml",
-    "https://rsshub.app/zhihu/hotlist",
-    "https://rsshub.app/douban/movie/weekly"
+    "https://rsshub.app/zhihu/hotlist"
   ]
 }
