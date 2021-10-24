@@ -15,7 +15,8 @@
     "https://xiamuyourenzhang.cn/feed.xml",
     "https://web.dev/feed.xml",
     "https://blog.mozilla.org/feed/",
-    "https://kevinfiol.com/atom.xml"
+    "https://kevinfiol.com/atom.xml",
+    "https://lutaonan.com/rss.xml"
   ],
   "channel": [
     "https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA",
