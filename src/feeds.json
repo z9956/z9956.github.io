@@ -14,7 +14,8 @@
     "https://blog.stevensanderson.com/feed/",
     "https://xiamuyourenzhang.cn/feed.xml",
     "https://web.dev/feed.xml",
-    "https://blog.mozilla.org/feed/"
+    "https://blog.mozilla.org/feed/",
+    "https://kevinfiol.com/atom.xml"
   ],
   "channel": [
     "https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA",
