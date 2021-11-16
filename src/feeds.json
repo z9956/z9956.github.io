@@ -17,7 +17,8 @@
     "https://web.dev/feed.xml",
     "https://blog.mozilla.org/feed/",
     "https://kevinfiol.com/atom.xml",
-    "https://lutaonan.com/rss.xml"
+    "https://lutaonan.com/rss.xml",
+    "https://www.chrisarmstrong.dev/rss.xml"
   ],
   "channel": [
     "https://www.youtube.com/feeds/videos.xml?channel_id=UCblfuW_4rakIf2h6aqANefA",
